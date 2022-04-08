@@ -2,7 +2,7 @@
 
 ## 快速开始
 
-环境安装直接参考：https://github.com/rcore-os/rCore-Tutorial-v3。
+环境安装直接参考：[https://github.com/rcore-os/rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3)。
 
 启动运行脚本：
 
