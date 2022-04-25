@@ -6,10 +6,10 @@ fn panic_handler(panic_info: &core::panic::PanicInfo) -> ! {
             "Panicked at {}:{}, {}",
             location.file(),
             location.line(),
-            err)
-        ;
+            err
+        );
     } else {
         println!("Panicked: {}", err);
     }
     loop {}
-} 
+}
